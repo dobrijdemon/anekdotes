@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "content_version": 1788452598,
-  "generated_at": "2026-09-03T16:23:18Z",
+  "content_version": 1788453242,
+  "generated_at": "2026-09-03T16:34:02Z",
   "jokes": {
-    "url": "jokes/b739317ceb1ab004ad025af71d5afc75a3b644e42732337931d9295ab25ea2fd.json",
-    "sha256": "b739317ceb1ab004ad025af71d5afc75a3b644e42732337931d9295ab25ea2fd",
-    "size": 572603,
+    "url": "jokes/d8046b0409db3ee239566aa799a922a7aa6bb85afc2f37ae123d2ffeb5819c26.json",
+    "sha256": "d8046b0409db3ee239566aa799a922a7aa6bb85afc2f37ae123d2ffeb5819c26",
+    "size": 568787,
     "count": 763
   },
   "memes": [],
