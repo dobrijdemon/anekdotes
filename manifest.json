@@ -1,32 +1,13 @@
 {
   "schema_version": 1,
-  "content_version": 1788454395,
-  "generated_at": "2026-09-03T16:53:15Z",
+  "content_version": 1788455255,
+  "generated_at": "2026-09-03T17:07:35Z",
   "jokes": {
     "url": "jokes/d8046b0409db3ee239566aa799a922a7aa6bb85afc2f37ae123d2ffeb5819c26.json",
     "sha256": "d8046b0409db3ee239566aa799a922a7aa6bb85afc2f37ae123d2ffeb5819c26",
     "size": 568787,
     "count": 763
   },
-  "memes": [
-    {
-      "sha256": "0094769669f1bbc33d45e2de466464a346a8c875404a6739453f9d7e8339f483",
-      "file": "memes/0094769669f1bbc33d45e2de466464a346a8c875404a6739453f9d7e8339f483.gif",
-      "size": 22426,
-      "content_type": "image/gif"
-    },
-    {
-      "sha256": "ad2676110379aafea9874d9f89066992ae7261e4151f291077e3b1d9d549c4a7",
-      "file": "memes/ad2676110379aafea9874d9f89066992ae7261e4151f291077e3b1d9d549c4a7.jpg",
-      "size": 13118,
-      "content_type": "image/jpeg"
-    },
-    {
-      "sha256": "0564b72699bd53fa7e68e70841dbd1e26817b353d88f995cb0b17a7f913bf171",
-      "file": "memes/0564b72699bd53fa7e68e70841dbd1e26817b353d88f995cb0b17a7f913bf171.png",
-      "size": 10470,
-      "content_type": "image/png"
-    }
-  ],
+  "memes": [],
   "removed_hashes": []
 }
