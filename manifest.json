@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "content_version": 1788449820,
+  "generated_at": "2026-09-03T15:37:00Z",
+  "jokes": {
+    "url": "jokes/b739317ceb1ab004ad025af71d5afc75a3b644e42732337931d9295ab25ea2fd.json",
+    "sha256": "b739317ceb1ab004ad025af71d5afc75a3b644e42732337931d9295ab25ea2fd",
+    "size": 572603,
+    "count": 763
+  },
+  "memes": [],
+  "removed_hashes": []
+}
