@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "content_version": 1788529298,
-  "generated_at": "2026-09-04T13:41:38Z",
+  "content_version": 1788531035,
+  "generated_at": "2026-09-04T14:10:35Z",
   "jokes": {
-    "url": "jokes/d8046b0409db3ee239566aa799a922a7aa6bb85afc2f37ae123d2ffeb5819c26.json",
-    "sha256": "d8046b0409db3ee239566aa799a922a7aa6bb85afc2f37ae123d2ffeb5819c26",
-    "size": 568787,
-    "count": 763
+    "url": "jokes/b3d7f770a6a6be0f2948ea4527cdc23ac01adee1641a589449791a74e7be6e95.json",
+    "sha256": "b3d7f770a6a6be0f2948ea4527cdc23ac01adee1641a589449791a74e7be6e95",
+    "size": 620348,
+    "count": 886
   },
   "memes": [
     {
